@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=NCCA15
+iosLaunchConfigurationAttributes/appid=com.mdw.ncca15
+iosLaunchConfigurationAttributes/certificate=Marlys Cappaert (2Y9GE5MD7H)
+iosLaunchConfigurationAttributes/distribute_path=/Users/tad/Desktop
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/output_format=ipa
+iosLaunchConfigurationAttributes/sdk_version=8.0
+iosLaunchConfigurationAttributes/uuid=6d8b6f5b-3936-4a71-9398-d86702b2a298

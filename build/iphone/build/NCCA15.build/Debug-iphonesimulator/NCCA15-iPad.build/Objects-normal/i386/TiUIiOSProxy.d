@@ -1,0 +1,60 @@
+dependencies: \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSProxy.m \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiBase.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiThreading.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiPublicAPI.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiEvaluator.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/KrollContext.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/KrollCallback.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/KrollObject.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSAdViewProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIViewProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiViewProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIView.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiAnimation.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiPoint.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiDimension.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiColor.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/ListenerEntry.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiModule.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUtils.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/WebFont.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiFile.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiBuffer.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiBlob.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/LayoutConstraint.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiGradient.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiRect.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiViewTemplate.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/Webcolor.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSAttributedStringProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/Ti3DMatrix.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSCoverFlowViewProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSToolbarProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiToolbar.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSTabbedBarProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiUIiOSNavWindowProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiWindowProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiTab.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiTabGroup.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiViewController.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiAnimatorProxy.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiSnapBehavior.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiPushBehavior.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiGravityBehavior.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiAnchorAttachBehavior.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiViewAttachBehavior.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiCollisionBehavior.h \
+  /Users/tad/Documents/Titanium_Studio_Workspace/NCCA15/build/iphone/Classes/TiDynamicItemBehavior.h
